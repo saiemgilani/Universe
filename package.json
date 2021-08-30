@@ -1,0 +1,30 @@
+[
+  {
+    "package": "cfbfastR",
+    "url": "https://github.com/saiemgilani/cfbfastR"
+  },
+  {
+    "package": "hoopR",
+    "url": "https://github.com/saiemgilani/hoopR"
+  },
+  {
+    "package": "wehoop",
+    "url": "https://github.com/saiemgilani/wehoop"
+  },
+  {
+    "package": "recruitR",
+    "url": "https://github.com/saiemgilani/recruitR"
+  },
+  {
+    "package": "puntr",
+    "url": "https://github.com/puntalytics/puntr"
+  },
+  {
+    "package": "gamezoneR",
+    "url": "https://github.com/jacklich10/gamezoneR"
+  },
+  {
+    "package": "worldfootballR",
+    "url": "https://github.com/jaseviz/worldfootballR"
+  }
+]
