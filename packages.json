@@ -16,8 +16,20 @@
     "url": "https://github.com/saiemgilani/recruitR"
   },
   {
-    "package": "puntr",
-    "url": "https://github.com/puntalytics/puntr"
+    "package": "usfootballR",
+    "url": "https://github.com/saiemgilani/usfootballR"
+  },
+  {
+    "package": "powerplay",
+    "url": "https://github.com/saiemgilani/powerplay"
+  },
+  {
+    "package": "baseballr",
+    "url": "https://github.com/billpetti/baseballr"
+  },
+  {
+    "package": "fastRhockey",
+    "url": "https://github.com/benhowell71/fastRhockey"
   },
   {
     "package": "gamezoneR",
