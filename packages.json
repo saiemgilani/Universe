@@ -1,27 +1,23 @@
 [
   {
     "package": "cfbfastR",
-    "url": "https://github.com/saiemgilani/cfbfastR"
+    "url": "https://github.com/sportsdataverse/cfbfastR"
   },
   {
     "package": "hoopR",
-    "url": "https://github.com/saiemgilani/hoopR"
+    "url": "https://github.com/sportsdataverse/hoopR"
   },
   {
     "package": "wehoop",
-    "url": "https://github.com/saiemgilani/wehoop"
+    "url": "https://github.com/sportsdataverse/wehoop"
   },
   {
     "package": "recruitR",
-    "url": "https://github.com/saiemgilani/recruitR"
+    "url": "https://github.com/sportsdataverse/recruitR"
   },
   {
     "package": "usfootballR",
-    "url": "https://github.com/saiemgilani/usfootballR"
-  },
-  {
-    "package": "powerplay",
-    "url": "https://github.com/saiemgilani/powerplay"
+    "url": "https://github.com/sportsdataverse/usfootballR"
   },
   {
     "package": "baseballr",
@@ -29,14 +25,42 @@
   },
   {
     "package": "fastRhockey",
-    "url": "https://github.com/benhowell71/fastRhockey"
+    "url": "https://github.com/sportsdataverse/fastRhockey"
   },
   {
     "package": "gamezoneR",
     "url": "https://github.com/jacklich10/gamezoneR"
   },
   {
+    "package": "toRvik",
+    "url": "https://github.com/andreweatherman/toRvik"
+  },
+  {
+    "package": "sportyR",
+    "url": "https://github.com/sportsdataverse/sportyR"
+  },
+  {
     "package": "worldfootballR",
     "url": "https://github.com/jaseziv/worldfootballR"
+  },
+  {
+    "package": "chessR",
+    "url": "https://github.com/jaseziv/chessR"
+  },
+  {
+    "package": "mlbplotR",
+    "url": "https://github.com/camdenk/mlbplotR"
+  },
+  {
+    "package": "oddsapiR",
+    "url": "https://github.com/sportsdataverse/oddsapiR"
+  },
+  {
+    "package": "cfbplotR",
+    "url": "https://github.com/Kazink36/cfbplotR"
+  },
+  {
+    "package": "cfb4th",
+    "url": "https://github.com/Kazink36/cfb4th"
   }
 ]
